@@ -1,4 +1,4 @@
-data 1
+dajancuk rubah
 data 2
-data 3
-data 4
+new data entry should here
+yes
